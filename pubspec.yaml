@@ -1,0 +1,10 @@
+name: neurone
+version: 1.0.0
+authors:
+  - Adib Mohsin <adibmohsin.root@gmail.com>
+description: An extremely small library for emitting local events in dart
+homepage: https://github.com/pacifio/neurone
+environment:
+  sdk: ">=2.0.0-dev.36.0 <3.0.0"
+dev_dependencies:
+  test: ">=0.12.18"
